@@ -45,9 +45,9 @@
   ```
 - Then use **Inno Setup** to create an installer from the `.exe` file. You can use the provided `.iss` script to automate the setup process.
 
-Download Inno Setup here: [https://jrsoftware.org/isinfo.php](https://github.com/Priyanshu-Gupta-git/LootVault_Game/releases/tag/LootVault_Game_setup)
+Download Inno Setup here: 
+[![Download Setup](https://img.shields.io/badge/DOWNLOAD-SETUP-brightgreen?style=for-the-badge)](https://github.com/Priyanshu-Gupta-git/LootVault_Game/releases/tag/LootVault_Game_setup)
 
----
 
 ## 📁 Folder Structure
 ```
