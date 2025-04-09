@@ -45,7 +45,7 @@
   ```
 - Then use **Inno Setup** to create an installer from the `.exe` file. You can use the provided `.iss` script to automate the setup process.
 
-Download Inno Setup here: [https://jrsoftware.org/isinfo.php](https://jrsoftware.org/isinfo.php)
+Download Inno Setup here: [https://jrsoftware.org/isinfo.php](https://github.com/Priyanshu-Gupta-git/LootVault_Game/releases/tag/LootVault_Game_setup)
 
 ---
 
@@ -80,6 +80,7 @@ Usernames and passwords are saved in plain text (`details.txt`). For real apps, 
 - Made with Python & Tkinter 🐍
 - Free to use and modify under the **MIT License**
 - Author: PRIYANSHU GUPTA
+- LinkedIn: https://www.linkedin.com/in/priyanshu-gupta-a37464309/
 
 ---
 
